@@ -1,10 +1,10 @@
 
 # Game Console Sales
-![img1](/questions/q2.jpg)
+![img](/questions/q2.JPG)
 content
-![img2](/questions/q21.jpg)
+![img](/questions/q21.JPG)
 content
-![img3](/questions/q22.jpg)
+![img](/questions/q22.JPG)
 content
-![img4](/questions/q23.jpg)
+![img](/questions/q23.JPG)
 content
