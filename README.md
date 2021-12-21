@@ -9,4 +9,4 @@ This data set contains information on game player sales. It specifies year, prod
 ![img](/pictures/q22.JPG)
 ![img](/pictures/q23.JPG)
 
-The idea I have come up with [jupyter notebook](https://github.com/tan-koo/Game-Console-Sales/blob/master/jupyter/sales.ipynb)
+The idea I have come up with [jupyter notebook](https://github.com/tan-koo/Game-Console-Sales/blob/master/jupyter/sales.ipynb) 👈
