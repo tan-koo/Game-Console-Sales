@@ -1,6 +1,6 @@
 
 # Game Console Sales
-This data set contains information on game player sales. It specifies year, product name, type and the salesperson. (The statistic is entirely fictitious.)
+This dataset contains information on game player sales. It specifies year, product name, type and the salesperson. (The statistic is entirely fictitious.)
 ![img](/pictures/q2.JPG)
 
 > Question part
