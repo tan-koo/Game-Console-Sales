@@ -1,6 +1,6 @@
 
 # Game Console Sales
-This dataset contains information on game player sales. It specifies year, product name, type and the salesperson. (The statistic is entirely fictitious.)
+This dataset contains information on game player sales. It specifies year, product name, type and the salesperson. The job's aim is to have a professional present in a state of organization. (The statistic is entirely fictitious.)
 ![img](/pictures/q2.JPG)
 
 > Question part
